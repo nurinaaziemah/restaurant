@@ -1,0 +1,49 @@
+.bg-image{
+    --background:none;
+    background-image: url("/assets/pic/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.title{
+    text-align: justify;
+    position: absolute;
+    left:37%;
+    top: 1000%;
+    font-size:1.5rem;
+    text-shadow: 5px 5px #4742428a ;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+#one{
+    position: absolute;
+    bottom: 0%;
+    right: 105%;
+    font-size:70px;
+
+}
+
+
+.button{
+    text-align: justify;
+    position: absolute;
+    left:23%;
+    font-size:1rem;
+    font-weight: bold;
+    --background: #55B22A;
+    width:150px;
+    opacity:0.8;
+}
+
+#login{
+    position: absolute;
+    top:1700%
+}
+
+#signup{
+    position: absolute;
+    top: 2000%;
+}

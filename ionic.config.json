@@ -1,0 +1,7 @@
+{
+  "name": "rest-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
